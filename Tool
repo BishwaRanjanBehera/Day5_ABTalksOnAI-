@@ -1,0 +1,20 @@
+Tool of the Day
+Sider AI
+
+Browser Extension
+
+Sider AI is an AI-powered browser assistant that provides access to multiple AI models, writing assistance, summarization, translation, and productivity features directly inside your browser.
+
+How to set up Sider AI
+1
+Open the Sider AI website.
+2
+Install the browser extension.
+3
+Pin the extension to your browser toolbar.
+4
+Open any webpage.
+5
+Use Sider AI to summarize, explain, or interact with content.
+6
+Explore the available AI productivity features.
